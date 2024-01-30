@@ -36,6 +36,7 @@ public class HashTableExample : MonoBehaviour
         Debug.Log($"----------------------------------------------");
 
         // 반목문을 이용한 조회
+        // 해쉬태이블은 포이치문을 사용한다.
         for (int i = 0; i < myTable.Count; i++)
         {
             Debug.Log(myTable[i]);
