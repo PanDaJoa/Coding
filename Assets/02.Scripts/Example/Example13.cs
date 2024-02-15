@@ -11,8 +11,8 @@ public class Example13 : MonoBehaviour
         // 참과 거짓을 저장하는 자료형
         // true(참), false(거짓)
 
-        bool isDie = false;  //죽었는가? -> 거짓
-        bool hasItem = true; //아이템을 가지고 있는가? -> 참
+       // bool isDie = false;  //죽었는가? -> 거짓
+       // bool hasItem = true; //아이템을 가지고 있는가? -> 참
 
         // 4. 비교(관계) 연산자
         // 양쪽 값(변수)을 비교해서 결과를 true(참) 또는 false(거짓)인지 판명해주는 연산자
